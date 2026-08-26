@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://cbwjuh17mlyx2"]
+
+[ext_resource type="PackedScene" uid="uid://136bfrabpjuk" path="res://panoramas/asteroids_-_low_poly.glb" id="1_3yg1c"]
+
+[node name="Sketchfab_Scene" unique_id=1375296505 instance=ExtResource("1_3yg1c")]
