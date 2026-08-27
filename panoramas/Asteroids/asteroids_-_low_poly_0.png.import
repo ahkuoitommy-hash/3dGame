@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4sgdr5s8n7vf"
-path.s3tc="res://.godot/imported/asteroids_-_low_poly_0.png-40eec7aa375e61100c1feb8b707ea866.s3tc.ctex"
+path.s3tc="res://.godot/imported/asteroids_-_low_poly_0.png-a8590a6345f2fbfb4526335997e00c44.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -14,8 +14,8 @@ generator_parameters={
 
 [deps]
 
-source_file="res://panoramas/asteroids_-_low_poly_0.png"
-dest_files=["res://.godot/imported/asteroids_-_low_poly_0.png-40eec7aa375e61100c1feb8b707ea866.s3tc.ctex"]
+source_file="res://panoramas/Asteroids/asteroids_-_low_poly_0.png"
+dest_files=["res://.godot/imported/asteroids_-_low_poly_0.png-a8590a6345f2fbfb4526335997e00c44.s3tc.ctex"]
 
 [params]
 

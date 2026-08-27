@@ -1,9 +1,0 @@
-[gd_scene format=3 uid="uid://dn61ytbrqwse8"]
-
-[sub_resource type="SphereMesh" id="SphereMesh_yvbb5"]
-radius = 500.0
-height = 1000.0
-
-[node name="Node3D" type="MeshInstance3D" unique_id=1587539696]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -136.9443, 470.6531, 48.739166)
-mesh = SubResource("SphereMesh_yvbb5")

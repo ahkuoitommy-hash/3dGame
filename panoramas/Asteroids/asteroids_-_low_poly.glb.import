@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://136bfrabpjuk"
-path="res://.godot/imported/asteroids_-_low_poly.glb-f0bdbc3d9f2c3bf0add66b1acb3c0ae5.scn"
+path="res://.godot/imported/asteroids_-_low_poly.glb-91d2f65c9b1af76025a9c92a792d4826.scn"
 
 [deps]
 
-source_file="res://panoramas/asteroids_-_low_poly.glb"
-dest_files=["res://.godot/imported/asteroids_-_low_poly.glb-f0bdbc3d9f2c3bf0add66b1acb3c0ae5.scn"]
+source_file="res://panoramas/Asteroids/asteroids_-_low_poly.glb"
+dest_files=["res://.godot/imported/asteroids_-_low_poly.glb-91d2f65c9b1af76025a9c92a792d4826.scn"]
 
 [params]
 
